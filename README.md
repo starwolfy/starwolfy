@@ -1,8 +1,8 @@
 ## About
 
-Owner of Space Frontiers and Star Wolves.
+Owner and founder of Space Frontiers and Star Wolves.
 
-Discord: STARWOLF#5816, [YouTube channel](https://www.youtube.com/channel/UC6D7lcx9eL_ChA7HzzvhLtA) , [Steam account](https://steamcommunity.com/id/ClassyWolf/)
+Discord: STARWOLF#5816, [YouTube channel](https://www.youtube.com/channel/UC6D7lcx9eL_ChA7HzzvhLtA) , [Steam account](https://steamcommunity.com/id/ClassyWolf/) , [Gitlab](https://gitlab.starwolves.io/starwolf)
 
 ### Personal Long-Term Goals 🌟
 - Publish [Space Frontiers](https://github.com/starwolves/space) alpha. *(2025?)*
