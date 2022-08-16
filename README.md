@@ -10,7 +10,6 @@ Discord: STARWOLF#5816, [YouTube channel](https://www.youtube.com/channel/UC6D7l
 - Commercially release Space Frontiers on Steam, requiring all previous and upcoming players to pay a one-time fee for access to the clients. *(2028?)*
 - Build the Space Frontiers community and assign (hired) people with responsbilities and high authorization to ensure the game can continue on its own in a commercial open-source environment.
 - In case of success, make [Star Wolves](https://starwolves.io/) an independent commerciably viable digital empire evolved around online gaming and art.
-- In case of success, emigrate to and base in Texas, USA and have my work and servers enjoy sovereignty and freedom to the extreme.
 - Contribute to freeing the world by contributing to the re-appearance of tolerant heteronormative values through the New Age movement.
 - Let's make [Matrix](https://matrix.org/) and other upcoming decentralized alternatives to communication and work tools great one day.
 
