@@ -15,12 +15,8 @@ Discord: STARWOLF#5816, [YouTube channel](https://www.youtube.com/channel/UC6D7l
 
 [🐯 PRIVACY CURATION 🐯](https://github.com/stars/starwolfy/lists/personal-privacy)
 
-### Space Frontiers + Star Wolves Discord
+### Space Frontiers
 
 <a href="https://discord.gg/yYpMun9CTT">
     <img src="https://img.shields.io/discord/942798229953716274.svg?logo=discord&colorB=7289DA">
-</a>
-+
-<a href="https://discord.gg/qcg4zPuHyU">
-    <img src="https://img.shields.io/discord/879436685992140860.svg?logo=discord&colorB=7289DA">
 </a>
